@@ -1,4 +1,4 @@
-# React Quiz App README
+# React Quiz App
 ### Overview
 This React Quiz App allows users to take a four-question quiz. After completing the quiz, users can submit their answers to see the results. The app is built using React and provides a simple, interactive user interface.
 
